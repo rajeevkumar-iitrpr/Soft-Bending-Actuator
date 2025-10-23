@@ -39,11 +39,7 @@ For detailed theoretical background, fabrication notes, and test data, please re
 
 ---
 
-## 📜 License & Usage
 
-This project is provided **as-is** for educational and research purposes. You are free to **use, modify, and distribute** under the [MIT License](LICENSE) (or insert your license). Please include attribution for derived work.
-
----
 
 ## 👤 Author
 
