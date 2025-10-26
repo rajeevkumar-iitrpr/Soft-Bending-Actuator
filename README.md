@@ -16,14 +16,6 @@ Key features:
 <img width="444" height="805" alt="image" src="https://github.com/user-attachments/assets/7e3a0ff2-9625-42bd-87db-5f09eff3342a" />
 
 
----
-
-## 🛠 How to Use
-
-1. Open the `Project.pdf` file to review the design goals, material selection, fabrication method and test results.  
-2. Fabricate the actuator according to the described process (moulding/casting, tubing, connectors).  
-3. Integrate actuation mechanism and mount relevant sensors/actuators as per guidelines.  
-4. Use the results section of the report for benchmarking bending performance and repeatability.
 
 ---
 
