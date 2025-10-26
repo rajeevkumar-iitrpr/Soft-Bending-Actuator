@@ -13,6 +13,9 @@ Key features:
 - Modular design enabling replication and reuse in soft robotic systems.  
 - Documented in full project report including experimental validation.
 
+<img width="444" height="805" alt="image" src="https://github.com/user-attachments/assets/7e3a0ff2-9625-42bd-87db-5f09eff3342a" />
+
+
 ---
 
 ## 🛠 How to Use
